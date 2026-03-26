@@ -7,7 +7,7 @@ __pycache__/
 node_modules/
 build/
 
-Backend/config.py
+Backend/.env
 .env
 # Env
 .env

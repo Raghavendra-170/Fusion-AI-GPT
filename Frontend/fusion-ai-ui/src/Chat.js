@@ -137,6 +137,11 @@ function Chat() {
           className="chat-input"
           value={input}
           onChange={(e) => setInput(e.target.value)}
+          onKeyDown={(e) =>{
+            if(e.key == "Enter"){
+              sendMessage();
+            }
+          }}
           placeholder="Ask Fusion.ai..."
         />
 
