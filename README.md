@@ -1,8 +1,8 @@
 # Fusion.ai 🤖
 ### <img width="1536" height="1024" alt="logo" src="https://github.com/user-attachments/assets/0882ee03-dac1-47e8-b40c-10fdf0e4dd10" />
-###
+---
 Fusion.ai is a **full-stack AI chatbot** inspired by ChatGPT, built using **React + Flask + Gemini API** with voice interaction support.
-###
+---
 ### Live Link : https://fusion-ai-gpt-op13.vercel.app/
 ---
 
