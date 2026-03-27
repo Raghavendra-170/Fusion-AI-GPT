@@ -63,7 +63,7 @@ function Chat() {
 
     try {
       const res = await axios.post(
-        "http://127.0.0.1:5000/chat",
+        "https://fusion-ai-gpt.onrender.com/chat",
         { message: input },
         { signal: newController.signal }
       );
